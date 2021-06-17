@@ -1,4 +1,4 @@
-# Hi, I'm Vitor! 👨🏾‍💻
+# Hi, I'm Vitor! 
 
 I'm a {mobile and back end} developer.
 
