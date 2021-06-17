@@ -20,8 +20,6 @@ I'm a {mobile and back end} developer.
 
 <hr />
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=vitoryugulis&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 **Here my networks:**  
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vitoryugulis)](https://github.com/vitoryugulis)
