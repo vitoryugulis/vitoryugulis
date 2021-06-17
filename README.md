@@ -55,6 +55,12 @@ I'm a {mobile and back end} developer.
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </p>
 
+### OS:
+<p align="left">
+  <img alt="ANDROID" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+</p>
+
 # Other info:
 <a href="https://github.com/vitoryugulis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vitoryugulis&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Anurag's github stats" />
