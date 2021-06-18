@@ -1,4 +1,4 @@
-# Hi, I'm Vitor! 
+# Hi, I'm Vitor Yugulis! 
 I'm a {mobile and back end} developer.
 
 ### How to reach me:
