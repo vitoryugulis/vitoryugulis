@@ -1,5 +1,5 @@
 # Hi, I'm Vitor Yugulis! 
-I'm a {mobile and back end} developer. Currently working at [Unico IDTech](https://unico.io/), building apps with Flutter.
+I'm a {mobile and back end} developer. Currently working at [Unico IDTech](https://unico.io/), building apps with Flutter, Kotlin and Spring.
 
 ### How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoryugulis/)](https://www.linkedin.com/in/vitoryugulis/)
 
